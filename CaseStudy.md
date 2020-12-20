@@ -1,4 +1,4 @@
-## Unit 1 Homework Assignment: FinTech Case Study
+## FinTech Case Study
 ---
 # Coinsource Case Study
 ### By Keith TJ Azodeh
@@ -7,7 +7,7 @@
 
 ## Genesis
 Without a doubt, we are living in a turbulent age of technological innovation. With everything being digitized; from newspapers, to business,
-to even our financial systems, it's rather difficult to resist adaptation. We've progressed from trading goods and servides, to trading paper
+to even our financial systems, it's rather difficult to resist adaptation. We've progressed from trading goods and services, to trading paper
 bills in lieu of goods (or gold), we've constantly progressed in the direction of simplicity. Eventually, it became normal to swipe pieces 
 of plastic that hold access to our bank accounts, which are merely digitized records of our physical wealth. 
 
